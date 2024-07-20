@@ -6,6 +6,15 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/*
+ * 
+ * Find first non repeating character in a given string
+ * 
+ * For example given a string : aabccdde
+ * The output should be : b
+ * 
+ */
+
 public class FindTheFirstNonRepeatingCharacterInAString {
 
     private static void findFirstUniqueCharacterInAStringUsingStreams(String sampleString){
